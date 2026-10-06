@@ -322,5 +322,5 @@ If you use AERIS in your research, please cite:
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by <a href="https://github.com/Shrey-Kataria">Shrey Kataria</a></strong>
+  <strong>Built by <a href="https://github.com/Shrey-Kataria">Shrey Kataria</a></strong>
 </p>
