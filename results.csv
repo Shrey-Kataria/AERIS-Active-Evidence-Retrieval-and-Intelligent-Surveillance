@@ -1,0 +1,4 @@
+event_id,ground_truth,single_camera,all_cameras,random,aeris,cameras_queried,latency_ms
+1,1,1,1,0,1,2,42.5
+2,0,0,0,1,0,1,31.2
+3,1,0,1,1,1,2,45.1
